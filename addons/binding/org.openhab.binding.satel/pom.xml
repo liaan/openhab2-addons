@@ -14,4 +14,11 @@
 
   <name>Satel Binding</name>
 
+  <dependencies>
+  	<dependency>
+  		<groupId>com.github.mob41.blapi</groupId>
+  		<artifactId>broadlink-java-api</artifactId>
+  		<version>1.0.1</version>
+  	</dependency>
+  </dependencies>
 </project>
